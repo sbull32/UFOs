@@ -6,7 +6,19 @@ The purpose of the analysis done was to create a user friendly way of searching 
 
 ## Results
 
+We created a webpage using js and html scripts as well as css styling elements to create our data tables for users to review. In order to update the page we needed to create 4 more filter classes so the user will be able to search by their defined criteria. below is the coding we came up with to create these filters.
+
+![html_filters](https://github.com/sbull32/UFOs_/blob/main/html_filters_classes.png)
+
+We then adjusted our event listener to listen to a change in the selected inputs as opposed to the button click we had previously used. Below is the final webpage for users to access with the filters city, state, country, date, and shape for the user to input.
+
 ![ufo_filters](https://github.com/sbull32/UFOs_/blob/main/ufofilters.png)
 
+Once an input is entered, the user can hit enter on their keyboard in order to update the table with the desired filtered values.
+
 ## Summary
+
+One drawback of this webpage is that the data we are using is static and not dynamic, meaning all of the data the table is pulling up was manually entered in a dataset and doesn't allow for new sightings to be added to our search.
+
+One suggestion to improve the webpage would be to link our data to an API of somesort which contains similar data to the data we used for this webpage, however it can be updated as time moves forward . this would allow a user to view new sightings which would be preferrable for a long term solution to our problem.
 
