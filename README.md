@@ -20,5 +20,5 @@ Once an input is entered, the user can hit enter on their keyboard in order to u
 
 One drawback of this webpage is that the data we are using is static and not dynamic, meaning all of the data the table is pulling up was manually entered in a dataset and doesn't allow for new sightings to be added to our search.
 
-One suggestion to improve the webpage would be to link our data to an API of somesort which contains similar data to the data we used for this webpage, however it can be updated as time moves forward . this would allow a user to view new sightings which would be preferrable for a long term solution to our problem.
+One suggestion to improve the webpage would be to link our data to an API of somesort which contains similar data to the data we used for this webpage, however it can be updated as time moves forward. This would allow a user to view new sightings which would be preferrable for a long term solution to our problem. Another suggestion might be to include a button instead of the updated version which changes when a user hits enter after inputting their desired filter value. I just prefer the button aesthetics and believe it gives the user a feeling of more control when entering in their desired filter values.
 
