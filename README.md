@@ -1,4 +1,4 @@
-# UFOs_
+# UFOs
 Module 11
 
 ## Overview
@@ -8,11 +8,11 @@ The purpose of the analysis done was to create a user friendly way of searching 
 
 We created a webpage using js and html scripts as well as css styling elements to create our data tables for users to review. In order to update the page we needed to create 4 more filter classes so the user will be able to search by their defined criteria. below is the coding we came up with to create these filters.
 
-![html_filters](https://github.com/sbull32/UFOs_/blob/main/html_filters_classes.png)
+![html_filters](https://github.com/sbull32/UFOs_/blob/main/static/images/html_filters_classes.png)
 
 We then adjusted our event listener to listen to a change in the selected inputs as opposed to the button click we had previously used. Below is the final webpage for users to access with the filters city, state, country, date, and shape for the user to input.
 
-![ufo_filters](https://github.com/sbull32/UFOs_/blob/main/ufofilters.png)
+![ufo_filters](https://github.com/sbull32/UFOs/blob/main/static/images/filtered_results.png)
 
 Once an input is entered, the user can hit enter on their keyboard in order to update the table with the desired filtered values.
 
